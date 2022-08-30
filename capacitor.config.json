@@ -6,10 +6,7 @@
   "plugins": {
     "SplashScreen": {
       "backgroundColor": "#028AC2",
-      "launchAutoHide": false,
-      "splashFullScreen": false,
-      "splashImmersive": false,
-      "useDialog": true
+      "launchAutoHide": false
     }
   }
 }
