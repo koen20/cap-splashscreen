@@ -1,0 +1,15 @@
+{
+  "appId": "nl.koenhabets.capsplashscreen",
+  "appName": "cap-splashscreen",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "backgroundColor": "#028AC2",
+      "launchAutoHide": false,
+      "splashFullScreen": false,
+      "splashImmersive": false,
+      "useDialog": true
+    }
+  }
+}
